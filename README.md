@@ -1,6 +1,6 @@
 # Angular Landing Page
 
-![EasyTrack Preview](landingpage-preview.png)
+![angularlandingpage Preview](angularlandingpage-preview.png)
 
 Simple responsive landing page built with Angular.
 
